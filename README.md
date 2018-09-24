@@ -1,6 +1,3 @@
----
-Latest update
----
 
 Following are recent project **Angular, React and HTML**.
 
