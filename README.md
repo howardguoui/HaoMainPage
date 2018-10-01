@@ -13,6 +13,25 @@ Expert in Front-End technologies including HTML/HTML5, CSS/CSS3, JavaScript, jQu
 
 #### ADP – Parsippany, NJ       
 “Simplified Integration and Data Management” shows you the three ways ADP Global Cloud Connect can simplify data management between cloud-based HCM. Send and receive data in any format of your choice. Easily to use data mapping and transformation tools Powerful data capture tools to collect local, missing data for payroll processing.
+*	Developed user interface by using the React JS 16, Redux for SPA development.
+*	Design the Layout based on ADP react internal library in all pages and working with CSS Background, positioning, text, border, margin, padding, and table.
+
+*	Developed client side Interface using React JS. Developed login page, authorization service, user service, partner list and client list, partner detail and client detail page.
+
+*	Used SCSS as the CSS pre-processor and compiled less file with Webpack.
+*	Used React-Router to turn application into Single Page Application.
+*	Using Source Tree for Git version control. Analysis and give comment during the code review
+*	Used ReactJS 16 components, Forms, Events, Router, Animations and Flux concept.
+*	Work closely with Back-end team to display data using the custom component, library Components and Redux.
+*	Working with ECMA Script 6 feature. For Build of JSX and ES2015(ES6) used Babel, web pack. 
+*	Used Restful web services to call for POST, PUT, and DELETE and GET methods.
+*	Component for UX-Library consisted of Button, Checkbox, Input, Icons, Toggle Button, Dropdown, slide-in and so on.
+*	Using OOP concepts to develop UI components that could be reused across the web application. Match the prototype. Using only ReactJS cookbook from ADP VDL to design the website.
+*	Using functional programming to write pure function to optimize and increase performance by rendering the page.
+
+*	Used Middleware, Redux-Promise in application to retrieve data from Back-End service.
+*	Change unit test framework and applied code coverage to check all the test case.
+*	Check IE11 capability, worked on system testing, regression testing for complete UI after fixing the issues which are reported by QA.
 *	Analyze the Business Requirements and create the tech designs according to requirements. 
 *	Design and create application framework using Angular 6 and AngularJS 1.5(upgrade) Used Component design to handle html, service, controller, SCSS element and writing service for the backend.
 *	Define core module using constructor. Familiar with lifecycle hooks. Applied business logic in the controller and service and interface using es6 and typescript.
