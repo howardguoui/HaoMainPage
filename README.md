@@ -1,8 +1,8 @@
 
 Following are recent project **Angular, React and HTML**.
 
-[Howard ADP Angular Challenge](https://howardguoui.github.io/howardangular).
-[Howard React Burger demo](https://howardguoui.github.io/howardreact).
+*[Howard ADP Angular Challenge](https://howardguoui.github.io/howardangular).
+*[Howard React Burger demo](https://howardguoui.github.io/howardreact).
 
 
 # Summary
