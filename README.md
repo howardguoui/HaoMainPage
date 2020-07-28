@@ -1,16 +1,27 @@
 
 Following are recent project **Angular, React and HTML**.
 
-[Howard ADP Angular Challenge](https://howardguoui.github.io/howardangular).
 
 [Howard React Burger demo](https://howardguoui.github.io/howardreact).
 
 
 # Summary
 
-Expert in Front-End technologies including HTML/HTML5, CSS/CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Angular6, ReactJS 16, MySQL, Mongo DB, Dojo, D3.js and TypeScript.
+Expert in Front-End technologies including HTML/HTML5, CSS/CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Angular9, ReactJS 16, MySQL, Mongo DB, Dojo, D3.js and TypeScript.
 
 ## Experience
+#### Bank of America Merill Lynch – New York, NY       
+• As a software developer at Bank of America Merrill Lynch I specialized in developing React, React-redux and develop react-hook based web applications on GBAM using Webix, Golden layout, material-ui, BOA internal reactjs library and moment.js.
+• Maintain python flask web services on Quartz, the single cross-asset, front-to-back platform for pricing trades, managing positions and computing risk exposure at BAML using internal python table library.
+• Develop solutions for fulfilling external regulatory reporting requirements as well as internal trade metrics reporting for over 300 internal users leveraging Quartz Core API (Python, RESTer, Quack) with globally distributed object-oriented petabyte-class databases.
+Created responsive and dynamic user interface of the application using React in order to render and update just the right component without wasting unnecessary resources.
+• Implemented React-Redux for managing state and reinforced the logic of having global state and share information among components from single location using React.
+• Used Router incorporated in React to navigate through different pages quickly and smoothly.
+• Worked intensively with React State and Props for the purpose of transmitting and retrieving data from one component to another.
+• Handled Events and Animations occurred in various React component efficiently in cost-effective manner to gain optimal performance and met business requirement.
+• Utilized the immense power of new features of ES6 like Arrow Function, Literals, Promises, Classes, Async and Modules in all the React component.
+• Worked on user management, creation, update and deletion in React components.
+• Created mock screen and provide UI guidance  to offshore team like india and Hongkong team member and guide them to finish the requirement.
 
 #### ADP – Parsippany, NJ       
 “Simplified Integration and Data Management” shows you the three ways ADP Global Cloud Connect can simplify data management between cloud-based HCM. Send and receive data in any format of your choice. Easily to use data mapping and transformation tools Powerful data capture tools to collect local, missing data for payroll processing.
