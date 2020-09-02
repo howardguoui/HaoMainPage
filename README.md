@@ -2,7 +2,7 @@
 Following are recent project **Angular, React and HTML**.
 
 
-[Howard React Main Page](https://howardguoui.github.io/howardreact).
+[Howard React Main Page](https://howardguoui.github.io/howardreactmainpage).
 
 
 # Summary
